@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhineshwar Jaiswar</h1>.
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align= "right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/131228879/233014074-4fc5d831-59e2-4b53-a579-f6e0d9d10cfd.png)
-"/> </p>
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/WeirdPoliteAntelope-max-1mb.gif"/> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottoradiant&label=Profile%20views&color=0e75b6&style=flat" alt="ottoradiant" /> </p>
