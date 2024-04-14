@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://twitter.com/@abhineshwar1" target="blank"><img src="![image](https://user-images.githubusercontent.com/131228879/233015109-714b0dcd-acab-4cce-8a00-47daa6c3a8cd.png)
 " /></a> </p>
 
-- 💬 Ask me about **CCNA**
+- 💬 Ask me about **Python**
 
-- 📫Reach me **insta: Abhi__069**
+- 📫Reach me **insta: the_firestuffed**
 
-- ⚡ Fun fact ** Coding....**
+- ⚡ Fun fact ** Coding is fun....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
