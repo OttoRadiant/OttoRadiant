@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi  👋, I'm Abhineshwar Jaiswar</h1>.
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/WeirdPoliteAntelope-max-1mb.gif"/> 
 
