@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Java**
 
-- 📫Reach me **insta: the_firestuffed**
+- 📫Reach me on **instagram : the_firestuffed**
 
-- ⚡ Fun fact ** Coding is fun....**
+- ⚡ Fun fact **Coding is fun....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
